@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/github/followers/thiago-orbe-ai.svg?style=social&label=Follow&maxAge=2592000)
 
-![](https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Ecqonline&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecqonline&layout=compact&theme=dark)
 
 <div> 

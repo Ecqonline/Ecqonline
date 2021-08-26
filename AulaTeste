@@ -28,6 +28,7 @@ st.title("Site para classificar empréstimo.")
 st.subheader("Insira seus dados.")
 
 # Recebendo o arquivo
+#reco_df = pd.read_csv('recommendations_df.csv') - substituir a linha abaixo para nao ser obrigatorio importar o arquivo
 uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
   df = pd.read_csv(uploaded_file)

@@ -16,6 +16,24 @@
 
 <a href=“SEU LINK DO WHASTAPP" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+                                                                                                                         <a href="mailto:SEU E-MAIL" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+                                                                                                                   <a href=“SEU LINK DO INSTAGRAM" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+
+<a href=“SEU LINK DO FACEBOOK" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+                                                                                                                         <a href=“SEU LINK DO TWITTER" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+
+<a href=“SEU LINK DO YOUTUBE" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+                                                                                                                       <a href=“SEU LINK DO LINKEDINtarget="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href=“SEU LINK DO MEDIUM"_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a><div><br>
+                                                                                                                     
 - 👋 Hi, I’m @Ecqonline
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

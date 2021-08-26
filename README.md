@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/followers/thiago-orbe-ai.svg?style=social&label=Follow&maxAge=2592000)
 
 ![](https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecqonline&layout=compact&theme=dark)
 
 <div> 
 <a href="https://https://orbe.ai/" target="_blank">

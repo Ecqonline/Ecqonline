@@ -9,6 +9,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&theme=dark)
+
+<div> 
+<a href="https://https://orbe.ai/" target="_blank">
+<img src="https://orbe.ai/images/og-image.jpg" target="_blank"></a>
+
+<a href=“SEU LINK DO WHASTAPP" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 - 👋 Hi, I’m @Ecqonline
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
